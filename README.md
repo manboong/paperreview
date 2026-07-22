@@ -16,23 +16,19 @@
 
 ## 📝 Reading List
 
-### 👁️ Computer Vision
+### :spider_web: Network Science
 
 | Status | Year | Title | Venue | Note / Keywords | Review Link |
 | :---: | :---: | :--- | :---: | :--- | :---: |
-| ![Done](https://img.shields.io/badge/Status-Done-brightgreen) | 2015 | Deep Residual Learning for Image Recognition | CVPR | ResNet, Skip Connection | [Go to Review](./computer-vision/2015-resnet.md) |
-| ![In Progress](https://img.shields.io/badge/Status-In--Progress-orange) | 2020 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | ICLR | ViT, Vision Transformer | [Go to Review](./computer-vision/2020-vit.md) |
-| ![To Read](https://img.shields.io/badge/Status-To--Read-lightgrey) | 2021 | Swin Transformer: Hierarchical Vision Transformer using Shifted Windows | ICCV | Swin, Shifted Window | - |
-
-<br/>
-
+| ![In Progress](https://img.shields.io/badge/Status-In--Progress-orange) | 2022 | A Statistical Model of Bipartite Networks: Application to Cosponsorship in the United States Senate. | Political Analysis | Bipartite Networks, MMSBM, Variational Inference, Covariate Integration, Political Science | [Go to Review](./NetSci/2022-biMMSBM) |
+<!--
 ### 💬 Natural Language Processing
 
 | Status | Year | Title | Venue | Note / Keywords | Review Link |
 | :---: | :---: | :--- | :---: | :--- | :---: |
 | ![Done](https://img.shields.io/badge/Status-Done-brightgreen) | 2017 | Attention Is All You Need | NeurIPS | Transformer, Self-Attention | [Go to Review](./nlp/2017-transformer.md) |
 | ![To Read](https://img.shields.io/badge/Status-To--Read-lightgrey) | 2020 | Language Models are Few-Shot Learners | NeurIPS | GPT-3, In-Context Learning | - |
-
+-->
 ---
 
 ## 📌 Review Template & Guidelines

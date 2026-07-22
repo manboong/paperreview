@@ -20,7 +20,7 @@
 
 | Status | Year | Title | Venue | Note / Keywords | Review Link |
 | :---: | :---: | :--- | :---: | :--- | :---: |
-| ![In Progress](https://img.shields.io/badge/Status-In--Progress-orange) | 2022 | A Statistical Model of Bipartite Networks: Application to Cosponsorship in the United States Senate. | Political Analysis | Bipartite Networks, MMSBM, Variational Inference, Covariate Integration, Political Science | [Go to Review](./NetSci/2022-biMMSBM) |
+| ![In Progress](https://img.shields.io/badge/Status-In--Progress-orange) | 2022 | A Statistical Model of Bipartite Networks: Application to Cosponsorship in the United States Senate. | Political Analysis | Bipartite Networks, MMSBM, Variational Inference, Covariate Integration, Political Science | [Go to Review](./NetSci/2022-biMMSBM.md) |
 <!--
 ### 💬 Natural Language Processing
 

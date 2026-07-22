@@ -1,6 +1,6 @@
 # 📚 Paper Review Repository
 
-개인 연구 및 학습을 위해 읽은 논문들을 요약하고 개인적인 리뷰를 남기는 공간입니다.
+A personal space for summarizing, archiving, and writing reviews for academic papers during my research and studies.
 
 <br/>
 
@@ -8,9 +8,9 @@
 
 | Status | Tag | Meaning |
 | :---: | :---: | :--- |
-| **Done** | ![Done](https://img.shields.io/badge/Done-brightgreen) | 리뷰 작성 완료 |
-| **In Progress** | ![In Progress](https://img.shields.io/badge/In--Progress-orange) | 현재 읽는 중 또는 작성 중 |
-| **To-Read** | ![To Read](https://img.shields.io/badge/To--Read-lightgrey) | 읽을 예정 (Backlog) |
+| **Done** | ![Done](https://img.shields.io/badge/Done-brightgreen) | Review Completed |
+| **In Progress** | ![In Progress](https://img.shields.io/badge/In--Progress-orange) | Currently Reading or Drafting |
+| **To-Read** | ![To Read](https://img.shields.io/badge/To--Read-lightgrey) | Saved for Later (Backlog) |
 
 <br/>
 
@@ -20,18 +20,18 @@
 
 | Status | Year | Title | Venue | Note / Keywords | Review Link |
 | :---: | :---: | :--- | :---: | :--- | :---: |
-| ![In Progress](https://img.shields.io/badge/In--Progress-orange) | 2022 | A Statistical Model of Bipartite Networks: Application to Cosponsorship in the United States Senate. | Political Analysis | Bipartite Networks, MMSBM, Variational Inference, Covariate Integration, Political Science | [Go to Review](./NetSci/2022-biMMSBM.md) |
+| ![In Progress](https://img.shields.io/badge/In--Progress-orange) | 2022 | A Statistical Model of Bipartite Networks: Application to Cosponsorship in the United States Senate | Political Analysis | Bipartite Networks, MMSBM, Variational Inference, Covariate Integration, Political Science | [Go to Review](./NetSci/2022-biMMSBM.md) |
 <!--
 ### 💬 Natural Language Processing
 
 | Status | Year | Title | Venue | Note / Keywords | Review Link |
 | :---: | :---: | :--- | :---: | :--- | :---: |
-| ![Done](https://img.shields.io/badge/Status-Done-brightgreen) | 2017 | Attention Is All You Need | NeurIPS | Transformer, Self-Attention | [Go to Review](./nlp/2017-transformer.md) |
-| ![To Read](https://img.shields.io/badge/Status-To--Read-lightgrey) | 2020 | Language Models are Few-Shot Learners | NeurIPS | GPT-3, In-Context Learning | - |
+| ![Done](https://img.shields.io/badge/Done-brightgreen) | 2017 | Attention Is All You Need | NeurIPS | Transformer, Self-Attention | [Go to Review](./nlp/2017-transformer.md) |
+| ![To Read](https://img.shields.io/badge/To--Read-lightgrey) | 2020 | Language Models are Few-Shot Learners | NeurIPS | GPT-3, In-Context Learning | - |
 -->
 ---
 
 ## 📌 Review Template & Guidelines
 
-* 새로운 논문을 작성할 때는 [`templates/paper-review-template.md`](./templates/paper-review-template.md) 양식을 복사하여 사용합니다.
-* 파일명 규칙: `YYYY-paper-name.md` (예: `2017-transformer.md`)
+* When starting a new paper review, copy and use the [`templates/paper-review-template.md`](./templates/paper-review-template-eng.md) file.
+* Naming convention: `YYYY-paper-name.md` (e.g., `2017-transformer.md`)

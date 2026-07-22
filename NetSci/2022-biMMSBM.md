@@ -1,9 +1,9 @@
 # [논문 제목] (영문 원제 또는 국문 제목)
 
-> **원제**: A Statistical Model of Bipartite Networks: Application to Cosponsorship in the United States Senate.
+> **원제**: A Statistical Model of Bipartite Networks: Application to Cosponsorship in the United States Senate. 
 > **저자**: Lo, Adeline, Santiago Olivella, and Kosuke Imai. 
-> **게재지/학회**: Political Analysis
-> **발표 연도**: 2022
+> **게재지/학회**: Political Analysis 
+> **발표 연도**: 2022 
 > **논문 링크**: [https://doi.org/10.1017/pan.2025.10021.]  
 > **상태**:<!-- ![Done](https://img.shields.io/badge/Done-brightgreen) --> ![In Progress](https://img.shields.io/badge/In--Progress-orange) <!-- ![To Read](https://img.shields.io/badge/To--Read-lightgrey) -->
 

@@ -8,9 +8,9 @@
 
 | Status | Tag | Meaning |
 | :---: | :---: | :--- |
-| **Done** | ![Done](https://img.shields.io/badge/Status-Done-brightgreen) | 리뷰 작성 완료 |
-| **In Progress** | ![In Progress](https://img.shields.io/badge/Status-In--Progress-orange) | 현재 읽는 중 또는 작성 중 |
-| **To-Read** | ![To Read](https://img.shields.io/badge/Status-To--Read-lightgrey) | 읽을 예정 (Backlog) |
+| **Done** | ![Done](https://img.shields.io/badge/Done-brightgreen) | 리뷰 작성 완료 |
+| **In Progress** | ![In Progress](https://img.shields.io/badge/In--Progress-orange) | 현재 읽는 중 또는 작성 중 |
+| **To-Read** | ![To Read](https://img.shields.io/badge/To--Read-lightgrey) | 읽을 예정 (Backlog) |
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 | Status | Year | Title | Venue | Note / Keywords | Review Link |
 | :---: | :---: | :--- | :---: | :--- | :---: |
-| ![In Progress](https://img.shields.io/badge/Status-In--Progress-orange) | 2022 | A Statistical Model of Bipartite Networks: Application to Cosponsorship in the United States Senate. | Political Analysis | Bipartite Networks, MMSBM, Variational Inference, Covariate Integration, Political Science | [Go to Review](./NetSci/2022-biMMSBM) |
+| ![In Progress](https://img.shields.io/badge/In--Progress-orange) | 2022 | A Statistical Model of Bipartite Networks: Application to Cosponsorship in the United States Senate. | Political Analysis | Bipartite Networks, MMSBM, Variational Inference, Covariate Integration, Political Science | [Go to Review](./NetSci/2022-biMMSBM.md) |
 <!--
 ### 💬 Natural Language Processing
 

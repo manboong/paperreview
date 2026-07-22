@@ -1,6 +1,5 @@
 # [논문 제목] (영문 원제 또는 국문 제목)
 
-> **원제**: Full Title of the Paper  
 > **저자**: First Author, Second Author, et al.  
 > **게재지/학회**: Venue Name (e.g., NeurIPS, IEEE TKDE, IPSJ)  
 > **발표 연도**: YYYY년  

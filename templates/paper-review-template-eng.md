@@ -1,6 +1,5 @@
 # [Paper Title] (English Title or Translated Title)
 
-> **Original Title**: Full Title of the Paper  
 > **Authors**: First Author, Second Author, et al.  
 > **Venue**: Venue Name (e.g., NeurIPS, IEEE TKDE, IPSJ)  
 > **Publication Year**: YYYY  

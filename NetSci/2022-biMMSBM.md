@@ -4,19 +4,14 @@
 > **게재지/학회**: Political Analysis  
 > **발표 연도**: 2022  
 > **논문 링크**: [https://doi.org/10.1017/pan.2025.10021.]   
-> **상태**:<!-- ![Done](https://img.shields.io/badge/Done-brightgreen) --> ![In Progress](https://img.shields.io/badge/In--Progress-orange) <!-- ![To Read](https://img.shields.io/badge/To--Read-lightgrey) -->
+> **상태**:<!-- ![Done](https://img.shields.io/badge/Done-brightgreen) --> <!--![In Progress](https://img.shields.io/badge/In--Progress-orange) --> ![To Read](https://img.shields.io/badge/To--Read-lightgrey) 
 
 ---
 
-## 🏷️ 키워드 (Keywords)
-`#Tag1` `#Tag2` `#Tag3`
-
----
-
-## 💡 한 줄 요약 (Executive Summary)
-> **이 논문의 핵심을 한 문장으로 정의합니다.**  
-> 
-
+## 💡 요약
+> 이분 네트워크(Bipartite network)에 관한 많은 연구는 해당 네트워크를 단일부 네트워크(unipartite network)로 투사(projection) 후 수행된다. 하지만 단일부 네트워크로의 투사는 정보의 손실로 이어질 가능성이 있다.   
+> 따라서 저자들은 기존의 MMSBM을 확장한 biMMSBM을 제시한다. 해당 모델은 노드들이 다른 타입의 노드와 어떻게 상호작용하는지를 기반으로 다수의 unobserved groups에 속하도록 한다.  
+> 또한 해당 모델은 공변량(covariates)들을 통해 분석 대상 네트워크의 edge 구조가 어떻게 형성되는지 설명하는 것을 지원한다.
 ---
 
 ## 1. 연구 배경 및 문제 정의 (Motivation & Problem Formulation)
